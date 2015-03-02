@@ -1,0 +1,965 @@
+[
+  {
+    "groupid": -100,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "chat",
+    "icon": "resource_default_cover",
+    "intro": "默认气泡",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -100,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_default_left",
+        "color": "#000000",
+        "rect": {
+          "x": 51,
+          "y": 45,
+          "width": 250,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -100,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_default_right",
+        "color": "#000000",
+        "rect": {
+          "x": 60,
+          "y": 42,
+          "width": 250,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -100,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_default_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 54,
+          "y": 72,
+          "width": 250,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -100,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_default_top",
+        "color": "#000000",
+        "rect": {
+          "x": 54,
+          "y": 75,
+          "width": 250,
+          "height": 60
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -99,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "cake",
+    "icon": "resource_cake_cover",
+    "intro": "Happy Birthday!",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -99,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_cake_left",
+        "color": "#E2714E",
+        "rect": {
+          "x": 126,
+          "y": 72,
+          "width": 225,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -99,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_cake_right",
+        "color": "#ff7713",
+        "rect": {
+          "x": 15,
+          "y": 72,
+          "width": 225,
+          "height": 48
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -98,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": " bingo",
+    "icon": "resource_bingo_cover",
+    "intro": "bingo!!",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -98,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_bingo_left",
+        "color": "#FF7911",
+        "rect": {
+          "x": 138,
+          "y": 66,
+          "width": 192,
+          "height": 54
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -98,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_bingo_right",
+        "color": "#FF7911",
+        "rect": {
+          "x": 21,
+          "y": 66,
+          "width": 192,
+          "height": 54
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -98,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_bingo_bottom",
+        "color": "#FF7911",
+        "rect": {
+          "x": 30,
+          "y": 66,
+          "width": 192,
+          "height": 54
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -98,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_bingo_top",
+        "color": "#FF7911",
+        "rect": {
+          "x": 138,
+          "y": 66,
+          "width": 192,
+          "height": 54
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -96,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "arraw_line",
+    "icon": "resource_arraw_lin_cover",
+    "intro": "有钱，任性！",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -96,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_lin_left",
+        "color": "#000000",
+        "rect": {
+          "x": 36,
+          "y": 33,
+          "width": 282,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -96,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_lin_right",
+        "color": "#000000",
+        "rect": {
+          "x": 30,
+          "y": 33,
+          "width": 282,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -96,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_lin_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 30,
+          "y": 96,
+          "width": 282,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -96,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_lin_top",
+        "color": "#000000",
+        "rect": {
+          "x": 36,
+          "y": 96,
+          "width": 282,
+          "height": 48
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -95,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "mmd",
+    "icon": "resource_mmd_cover",
+    "intro": "么么哒！",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -95,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_mmd_left",
+        "color": "#000000",
+        "rect": {
+          "x": 144,
+          "y": 63,
+          "width": 195,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -95,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_mmd_right",
+        "color": "#000000",
+        "rect": {
+          "x": 15,
+          "y": 63,
+          "width": 195,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -95,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_mmd_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 15,
+          "y": 63,
+          "width": 195,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -95,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_mmd_top",
+        "color": "#000000",
+        "rect": {
+          "x": 144,
+          "y": 63,
+          "width": 195,
+          "height": 66
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -94,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "arraw",
+    "icon": "resource_arraw_cover",
+    "intro": "有钱！就是任性！",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -94,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_left",
+        "color": "#000000",
+        "rect": {
+          "x": 18,
+          "y": 18,
+          "width": 321,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -94,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_right",
+        "color": "#000000",
+        "rect": {
+          "x": 24,
+          "y": 18,
+          "width": 321,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -94,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 21,
+          "y": 108,
+          "width": 321,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -94,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_arraw_top",
+        "color": "#000000",
+        "rect": {
+          "x": 24,
+          "y": 108,
+          "width": 321,
+          "height": 48
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -93,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "milk",
+    "icon": "resource_milk_cover",
+    "intro": "给我一杯奶茶",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -93,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_milk_left",
+        "color": "#000000",
+        "rect": {
+          "x": 90,
+          "y": 57,
+          "width": 261,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -93,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_milk_right",
+        "color": "#000000",
+        "rect": {
+          "x": 12,
+          "y": 60,
+          "width": 261,
+          "height": 60
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -91,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "money",
+    "icon": "resource_money_cover",
+    "intro": "有钱!快拿去!",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -91,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_money_left",
+        "color": "#000000",
+        "rect": {
+          "x": 123,
+          "y": 66,
+          "width": 225,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -91,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_money_right",
+        "color": "#000000",
+        "rect": {
+          "x": 18,
+          "y": 66,
+          "width": 225,
+          "height": 51
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -90,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "Flash",
+    "icon": "resource_flash_cover",
+    "intro": "闪电",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -90,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_flash_left",
+        "color": "#000000",
+        "rect": {
+          "x": 144,
+          "y": 60,
+          "width": 192,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -90,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_flash_right",
+        "color": "#000000",
+        "rect": {
+          "x": 21,
+          "y": 57,
+          "width": 192,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -90,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_flash_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 21,
+          "y": 57,
+          "width": 192,
+          "height": 66
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -90,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_flash_top",
+        "color": "#000000",
+        "rect": {
+          "x": 144,
+          "y": 60,
+          "width": 192,
+          "height": 66
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -89,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "hurts",
+    "icon": "resource_hurts_cover",
+    "intro": "受伤了",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -89,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_hurts_left",
+        "color": "#000000",
+        "rect": {
+          "x": 129,
+          "y": 60,
+          "width": 216,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -89,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_hurts_right",
+        "color": "#000000",
+        "rect": {
+          "x": 18,
+          "y": 63,
+          "width": 216,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -89,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_hurts_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 18,
+          "y": 63,
+          "width": 216,
+          "height": 60
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -89,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_hurts_top",
+        "color": "#000000",
+        "rect": {
+          "x": 129,
+          "y": 60,
+          "width": 216,
+          "height": 60
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -88,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "reindeer",
+    "icon": "resource_reindeer_cover",
+    "intro": "圣诞节快乐！",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -88,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_reindeer_left",
+        "color": "#000000",
+        "rect": {
+          "x": 57,
+          "y": 93,
+          "width": 225,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -88,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_reindeer_right",
+        "color": "#000000",
+        "rect": {
+          "x": 72,
+          "y": 96,
+          "width": 225,
+          "height": 51
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -87,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "christmax_sock",
+    "icon": "resource_sock_cover",
+    "intro": "圣诞节快乐!",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -87,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_sock_left",
+        "color": "#5b3f3b",
+        "rect": {
+          "x": 78,
+          "y": 90,
+          "width": 222,
+          "height": 48
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -87,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_sock_right",
+        "color": "#5b3f3b",
+        "rect": {
+          "x": 57,
+          "y": 90,
+          "width": 222,
+          "height": 48
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -86,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "heart",
+    "icon": "resource_heart_cover",
+    "intro": "I Miss You!",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -86,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_heart_left",
+        "color": "#000000",
+        "rect": {
+          "x": 111,
+          "y": 69,
+          "width": 219,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -86,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_heart_right",
+        "color": "#000000",
+        "rect": {
+          "x": 24,
+          "y": 69,
+          "width": 219,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -86,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_heart_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 24,
+          "y": 69,
+          "width": 219,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -86,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_heart_top",
+        "color": "#000000",
+        "rect": {
+          "x": 111,
+          "y": 69,
+          "width": 219,
+          "height": 51
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -85,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "heart",
+    "icon": "resource_start_cover",
+    "intro": "最明亮的星",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -85,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_start_left",
+        "color": "#000000",
+        "rect": {
+          "x": 30,
+          "y": 51,
+          "width": 258,
+          "height": 57
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -85,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_start_right",
+        "color": "#000000",
+        "rect": {
+          "x": 72,
+          "y": 51,
+          "width": 258,
+          "height": 57
+        },
+        "font": 16
+      },
+      {
+        "id": 3,
+        "groupid": -85,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_start_bottom",
+        "color": "#000000",
+        "rect": {
+          "x": 72,
+          "y": 66,
+          "width": 258,
+          "height": 57
+        },
+        "font": 16
+      },
+      {
+        "id": 4,
+        "groupid": -85,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_start_top",
+        "color": "#000000",
+        "rect": {
+          "x": 30,
+          "y": 66,
+          "width": 258,
+          "height": 57
+        },
+        "font": 16
+      }
+    ]
+  },
+  {
+    "groupid": -84,
+    "type": 1,
+    "status_flag": 1,
+    "add_flag": 1,
+    "name": "snowman",
+    "icon": "resource_snowman_cover",
+    "intro": "小雪人",
+    "updated_at": "2014-12-08",
+    "created_at": "2014-12-08",
+    "date": [
+      {
+        "id": 1,
+        "groupid": -84,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_snowman_left",
+        "color": "#000000",
+        "rect": {
+          "x": 117,
+          "y": 69,
+          "width": 213,
+          "height": 51
+        },
+        "font": 16
+      },
+      {
+        "id": 2,
+        "groupid": -84,
+        "type": 1,
+        "status_flag": 1,
+        "add_flag": 1,
+        "filepath": "resource_snowman_right",
+        "color": "#000000",
+        "rect": {
+          "x": 24,
+          "y": 72,
+          "width": 213,
+          "height": 51
+        },
+        "font": 16
+      }
+    ]
+  }
+]
